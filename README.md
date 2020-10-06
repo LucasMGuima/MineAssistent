@@ -2,5 +2,5 @@
 MineAssitent is a tool for help you keeping up with yours cords when playing Minecraft, 
 
 
-#Instal
+---INSTAL---
 Just unpack the zip and run the MineAssitente.jar
